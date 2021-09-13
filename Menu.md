@@ -17,7 +17,12 @@
 
 
 ## Beverages
-|Item||
+|Item|Price|
+|----|-----|
+|Water|10 Baht|
+|Soft Drink| 25 Baht|
+|Coffee| 60 Baht|
+|Tea| 40 Bath|
 
 
 
