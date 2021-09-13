@@ -3,23 +3,39 @@
 
 ## Breakfast
 
-    
+|Item|Price|
+|----|-----|
+|Biscuit and Gravy|70 Bath|
+|Eggs and bacon|60 Baht|
+|Pancakes|80  Baht|
+|Scrambled eggs|40  Baht|
 
 ## Lunch 
 
+|Item|Price|
+|----|-----|
+|Fried Rice |30 Baht|
+|Krapow Rice| 25 Baht|
+|Namtok Noodle| 25Baht|
+|Omelet Rice| 40 Bath|
 
 ## Dinner
 
+| Item     | Price      |
+|:----------|-----------|
+| Beef Curry  | 25 |
+| Beef Ravioli | 25 |
+| Chicken Deluxe  | 20 |
+| Greek Salad  | 20 |
 
 ## Night Food
+
 |Item|Price|
 |----|-----|
 |Apple|5 Baht|
 |Banana|5  Baht|
 |Pine|20  Bath|
 |Yogurt|15 Baht|
-
-
 
 ## Beverages
 
