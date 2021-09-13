@@ -5,10 +5,10 @@
 
 |Item|Price|
 |----|-----|
+|Biscuit and Gravy|70 Bath|
 |Eggs and bacon|60 Baht|
-|Scrambled eggs|40  Baht|
 |Pancakes|80  Baht|
-|Biscuit and Gravy|100  Bath|
+|Scrambled eggs|40  Baht|
 
 ## Lunch 
 
