@@ -3,9 +3,7 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+    
 
 ## Lunch 
 
@@ -14,6 +12,13 @@
 
 
 ## Night Food
+|Item|Price|
+|----|-----|
+|Apple|5 Baht|
+|Banana|5  Baht|
+|Pine|20  Bath|
+|Yogurt|15 Baht|
+
 
 
 ## Beverages
