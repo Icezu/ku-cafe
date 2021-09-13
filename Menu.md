@@ -11,6 +11,7 @@
 |Scrambled eggs|40  Baht|
 
 ## Lunch 
+
 |Item|Price|
 |----|-----|
 |Fried Rice |30 Baht|
@@ -27,10 +28,14 @@
 | Chicken Deluxe  | 20 |
 | Greek Salad  | 20 |
 
-
-
 ## Night Food
 
+|Item|Price|
+|----|-----|
+|Apple|5 Baht|
+|Banana|5  Baht|
+|Pine|20  Bath|
+|Yogurt|15 Baht|
 
 ## Beverages
 
