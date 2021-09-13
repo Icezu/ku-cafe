@@ -38,8 +38,12 @@
 |Yogurt|15 Baht|
 
 ## Beverages
-
-
+|Item|Price|
+|----|-----|
+|Coffee| 60 Baht|
+|Soft Drink| 25 Baht|
+|Tea| 40 Bath|
+|Water|10 Baht|
 
 ---
 
