@@ -2,8 +2,6 @@
 
 ## [Menu](Menu.md)
 
-## About Us
-
 • [Breakfast](Menu.md/#Breakfast)    
 • [Lunch](Menu.md#Lunch)    
 • [Dinner](Menu.md/#dinner-menu)    
