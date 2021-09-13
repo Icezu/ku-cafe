@@ -9,4 +9,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Krittamate | Lunch | kikikrittamate |
+| Krittamate | Lunch |@kikikrittamate |
