@@ -11,7 +11,12 @@
 |Scrambled eggs|40  Baht|
 
 ## Lunch 
-
+|Item|Price|
+|----|-----|
+|Fried Rice |30 Baht|
+|Krapow Rice| 25 Baht|
+|Namtok Noodle| 25Baht|
+|Omelet Rice| 40 Bath|
 
 ## Dinner
 
