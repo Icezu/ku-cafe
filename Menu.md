@@ -20,6 +20,14 @@
 
 ## Dinner
 
+| Item     | Price      |
+|:----------|-----------|
+| Beef Curry  | 25 |
+| Beef Ravioli | 25 |
+| Chicken Deluxe  | 20 |
+| Greek Salad  | 20 |
+
+
 
 ## Night Food
 
