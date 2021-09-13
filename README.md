@@ -12,8 +12,8 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Krasin Dittaram | Breakfast | @Icezu |
-| Krittamate | Lunch |@kikikrittamate |
-| Nabhan S. | Dinner | @nabhan-au |
-| Kul Boonanake | Night Food |@WhatWR |
-| Natchanon | Beverages | @natchanon-space |
+| Krasin Dittaram | Breakfast | [@Icezu](https://github.com/Icezu) |
+| Krittamate | Lunch |[@kikikrittamate](https://github.com/kikikrittamate) |
+| Nabhan S. | Dinner | [@nabhan-au](https://github.com/nabhan-au) |
+| Kul Boonanake | Night Food |[@WhatWR](https://github.com/WhatWR) |
+| Natchanon | Beverages |[@natchanon-space](https://github.com/natchanon-space) |
