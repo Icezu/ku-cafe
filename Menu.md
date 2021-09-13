@@ -1,48 +1,47 @@
 # KU Cafe Menu
 
-
 ## Breakfast
 
 |Item|Price|
 |----|-----|
-|Biscuit and Gravy|70 Bath|
-|Eggs and bacon|60 Baht|
-|Pancakes|80  Baht|
-|Scrambled eggs|40  Baht|
+|Biscuit and Gravy|30 Baht|
+|Eggs and bacon|30 Baht|
+|Pancakes|40 Baht|
+|Scrambled eggs|25 Baht|
 
 ## Lunch 
 
 |Item|Price|
 |----|-----|
 |Fried Rice |30 Baht|
-|Krapow Rice| 25 Baht|
-|Namtok Noodle| 25Baht|
-|Omelet Rice| 40 Bath|
+|Krapow Rice|25 Baht|
+|Namtok Noodle|25 Baht|
+|Omelet Rice|40 Baht|
 
 ## Dinner
 
-| Item     | Price      |
+|Item|Price|
 |:----------|-----------|
-| Beef Curry  | 25 |
-| Beef Ravioli | 25 |
-| Chicken Deluxe  | 20 |
-| Greek Salad  | 20 |
+|Beef Curry|25 Baht|
+|Beef Ravioli|25 Baht|
+|Chicken Deluxe|20 Baht|
+|Greek Salad|20 Baht|
 
 ## Night Food
 
 |Item|Price|
 |----|-----|
 |Apple|5 Baht|
-|Banana|5  Baht|
-|Pine|20  Bath|
+|Banana|5 Baht|
+|Pine|20 Baht|
 |Yogurt|15 Baht|
 
 ## Beverages
 |Item|Price|
 |----|-----|
-|Coffee| 60 Baht|
-|Soft Drink| 25 Baht|
-|Tea| 40 Bath|
+|Coffee|40 Baht|
+|Soft Drink|25 Baht|
+|Tea|40 Baht|
 |Water|10 Baht|
 
 ---
