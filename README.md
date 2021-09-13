@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Night Food](Menu.md/#Night-Food)
+-[Night Food](Menu.md/#Night-Food)
 
 
 ## About Us
